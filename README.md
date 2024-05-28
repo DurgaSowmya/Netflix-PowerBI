@@ -2,6 +2,8 @@
 
 This repository contains a Power BI dashboard that provides in-depth analysis of Netflix titles. The dashboard offers insights into various aspects such as content type distribution, genre popularity, yearly content additions, and geographical distribution.
 
+(https://github.com/DurgaSowmya/Netflix-PowerBI/blob/main/Capture.JPG)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -32,20 +34,18 @@ The Power BI dashboard includes the following visuals:
 
 1. **Content Distribution by Type**
    - Pie chart showing the proportion of TV shows vs. movies.
-   - ![Content Distribution by Type](https://github.com/yourusername/yourrepository/blob/main/content_distribution.png)
 
 2. **Top Genres**
    - Bar chart displaying the most popular genres on Netflix.
-   - ![Top Genres](https://github.com/DurgaSowmya/Netflix-PowerBI/blob/main/Capture.JPG)
+
 
 3. **Content Added Over the Years**
    - Line chart showing the number of titles added to Netflix each year.
-   - ![Content Added Over the Years](https://github.com/yourusername/yourrepository/blob/main/content_added_over_years.png)
 
 4. **Distribution by Country**
    - Map visual illustrating the distribution of content across different countries.
-   - ![Distribution by Country](https://github.com/yourusername/yourrepository/blob/main/distribution_by_country.png)
-   - 
+   
+   
 
 ## Getting Started
 
