@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard that provides in-depth analysis of Netflix titles. The dashboard offers insights into various aspects such as content type distribution, genre popularity, yearly content additions, and geographical distribution.
 
-(https://github.com/DurgaSowmya/Netflix-PowerBI/blob/main/Capture.JPG)
+![Project](https://github.com/DurgaSowmya/Netflix-PowerBI/blob/main/Capture.JPG)
 
 ## Table of Contents
 
