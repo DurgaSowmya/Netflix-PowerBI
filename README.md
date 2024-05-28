@@ -36,7 +36,7 @@ The Power BI dashboard includes the following visuals:
 
 2. **Top Genres**
    - Bar chart displaying the most popular genres on Netflix.
-   - ![Top Genres](https://github.com/yourusername/yourrepository/blob/main/top_genres.png)
+   - ![Top Genres](https://github.com/DurgaSowmya/Netflix-PowerBI/blob/main/capture.png)
 
 3. **Content Added Over the Years**
    - Line chart showing the number of titles added to Netflix each year.
@@ -45,6 +45,7 @@ The Power BI dashboard includes the following visuals:
 4. **Distribution by Country**
    - Map visual illustrating the distribution of content across different countries.
    - ![Distribution by Country](https://github.com/yourusername/yourrepository/blob/main/distribution_by_country.png)
+   - 
 
 ## Getting Started
 
